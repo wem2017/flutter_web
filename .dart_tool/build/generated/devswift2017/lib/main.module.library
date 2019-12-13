@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","devswift2017|lib/ui/home.dart","devswift2017|lib/utils/screen/screen_utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
